@@ -120,7 +120,7 @@ Ini buat:
 
 ---
 
-<h2 align="center">💡 ☕ Traktir Kopi & Nasi Padang aman nasi Goreng ya cuy! 😄</h2>
+<h2 align="center">💡 ☕ Traktir Kopi & Nasi Padang ama nasi Goreng ya cuy! 😄</h2>
 
 <div align="center">
 
